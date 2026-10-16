@@ -1,5 +1,11 @@
 Hije
 
+<h1 align="center">Hije</h1>
+
+<p align="center">
+  <img src="Hije.png" alt="Bandeira de Hije" width="240">
+</p>
+
 Informações gerais
 
 Esta página apresenta uma visão geral de Hije, com links para páginas específicas sobre o país.
