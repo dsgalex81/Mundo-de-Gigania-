@@ -6,7 +6,10 @@ Esta página reúne as informações sobre o futebol de Hije, incluindo suas com
 
 Ligas nacionais
 
-Lista das ligas disputadas no país, com informações sobre seus formatos, participantes e campeões.
+[Primeira Liga Hije]
+Segunda Liga Hije
+Terceira Liga Hije
+Quarta Liga Hijr
 
 Clubes
 
