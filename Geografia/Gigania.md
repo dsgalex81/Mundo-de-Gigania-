@@ -13,7 +13,35 @@ Entre os registros do continente estão os campeonatos nacionais e os títulos i
 
 Países
 
-A lista completa dos países de Gigania será organizada nesta seção.
+Clieves
+Deflates 
+Droelandia 
+Droka
+Famatins
+Famato
+Grande Jotan 
+Hamanoa
+Hije
+Jatoma
+Jatoma do Norte 
+Lawtoria 
+Lienne
+Litbia
+Malts
+Mark
+Nagarfa
+Nagarfa do Sul
+Nasfarda
+Notaka 
+Palaty
+QUATY
+Rosiela 
+Sallen 
+Solivia
+Utanja
+Utéria
+Veziette 
+Zapelion 
 
 História
 
