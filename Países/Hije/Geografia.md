@@ -130,7 +130,41 @@ Observações
 As populações apresentadas correspondem ao ano de 970.
 
 
-Regiões Geográficas e Demográficas
+Regiões geográficas e demográficas
+
+Hije é dividido em cinco grandes regiões, definidas principalmente pela localização dos estados, pela distribuição populacional e pelas características de suas áreas urbanas e rurais.
+
+1. Sul
+
+Estados: Hamanoka, Palnor, Sona, Rio Newen e Uria.
+
+O Sul reúne estados que geralmente possuem territórios extensos e populações de porte médio. Há, porém, duas exceções importantes: Hamanoka, que apresenta uma população elevada, e Palnor, que combina uma área territorial relativamente pequena com uma população alta.
+
+2. Central
+
+Estados: Civiatine, Perart, Gigernia e Portenho.
+
+A Região Central funciona como uma área de transição entre as regiões mais populosas e os estados menores. Seus estados não se destacam tanto pelo tamanho territorial ou pela população, e suas capitais tendem a ser menos grandiosas. Ainda assim, são unidades importantes na organização territorial de Hije, conectando os principais centros urbanos às cidades menores.
+
+3. Região XYZ — Norte Continental
+
+Estados: Yutania, Zinya, Xitan, Canfriso, Airinan e Rondert.
+
+A Região XYZ é marcada pela concentração populacional e pela limitação do espaço territorial. É uma das principais áreas urbanas de Hije, abrigando as três unidades associadas ao Trio XYZ: Yutania, capital federal e sede do Executivo; Xitan, sede do Legislativo; e Zinya, sede do Judiciário.
+
+4. Norte Continental — Região externa à XYZ
+
+Estados: Montes Belos, Horania, Canterian, Colavina e Ross.
+
+Diferentemente da Região XYZ, os estados desta área possuem territórios maiores e menor densidade populacional. Os quatro maiores apresentam extensas zonas rurais, o que contrasta com a concentração urbana característica da região vizinha.
+
+5. Norte Insular
+
+Estados: Etania, Silve e Suenni.
+
+A Região Norte Insular compreende os três estados localizados em uma ilha ao norte de Hije. Apesar de sua baixa população, a ilha possui uma extensão territorial considerável: sua área é aproximadamente equivalente à soma das áreas de Montes Belos, Horania, Canterian, Ross, Yutania, Zinya, Xitan, Canfriso, Airinan e Rondert.
+
+Essa combinação de grande extensão territorial e baixa população diferencia a região das áreas continentais mais densamente ocupadas de Hije.
 
 Clima e natureza
 
