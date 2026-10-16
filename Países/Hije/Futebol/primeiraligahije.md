@@ -66,7 +66,7 @@ Final: Zinya City 2–1 Yutania City
 
 O Zinya City venceu o Yutania City por 2 a 1 e se tornou o primeiro campeão hijotano.
 
-900 — Vitória
+900 — [Vitória](Clubes/vitoriafutebolclube.md)
 
 - Jogo de ida: Vitória 3–0 Xitan City
 - Jogo de volta: Xitan City 2–0 Vitória
@@ -136,7 +136,7 @@ A partir de 909, a Primeira Liga Hije passou a ser disputada em pontos corridos.
 Década de 900
 
 - 909: Atlético Liberdade — 42 pontos
-- 910: Vitória — 39 pontos
+- 910: [Vitória](Clubes/vitoriafutebolclube.md) — 39 pontos
 - 911: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 50 pontos
 - 912: Yutania City — 44 pontos
 - 913: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 49 pontos
@@ -157,19 +157,19 @@ Década de 920
 - 925: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 54 pontos
 - 926: Hije de Palnor — 58 pontos
 - 927: Yutania City — 56 pontos
-- 928: Vitória — 51 pontos
-- 929: Vitória — 59 pontos
+- 928: [Vitória](Clubes/vitoriafutebolclube.md) — 51 pontos
+- 929: [Vitória](Clubes/vitoriafutebolclube.md) — 59 pontos
 
 Década de 930
 
 - 930: Xitan City — 54 pontos
 - 931: Atlético Liberdade — 56 pontos
-- 932: Vitória — 56 pontos
+- 932: [Vitória](Clubes/vitoriafutebolclube.md) — 56 pontos
 - 933: Atlético Liberdade — 52 pontos
 - 934: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 67 pontos
 - 935: Hijotano — 52 pontos
 - 936: Rio Newen — 53 pontos
-- 937: Vitória — 59 pontos
+- 937: [Vitória](Clubes/vitoriafutebolclube.md) — 59 pontos
 - 938: Rio Grande — 55 pontos
 - 939: Hijotano — 66 pontos
 
@@ -184,7 +184,7 @@ Década de 940
 - 946: Zinya City — 74 pontos
 - 947: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 77 pontos
 - 948: Hijotano — 76 pontos
-- 949: Vitória — 79 pontos
+- 949: [Vitória](Clubes/vitoriafutebolclube.md) — 79 pontos
 
 Década de 950
 
@@ -206,7 +206,7 @@ Década de 960
 - 962: Palnor Club — 93 pontos
 - 963: Palnor Club — 86 pontos
 - 964: Zinya City — 86 pontos
-- 965: Vitória — 85 pontos
+- 965: [Vitória](Clubes/vitoriafutebolclube.md) — 85 pontos
 - 966: Palnor Club — 86 pontos
 - 967: Hijotano — 76 pontos
 - 968: Hito — 74 pontos
@@ -222,7 +222,7 @@ Década de 970
 - 975: Hito — 79 pontos
 - 976: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 76 pontos
 - 977: Hije de Palnor — 72 pontos
-- 978: Vitória — 74 pontos
+- 978: [Vitória](Clubes/vitoriafutebolclube.md) — 74 pontos
 - 979: Xitan City — 73 pontos
 
 Temporada de 980
@@ -244,10 +244,10 @@ Temporadas de 902 a 910
 
 - 902: Rio Grande e Hijotano
 - 903: Hito e Falcão Norte
-- 904: Vitória e Univ Hije
+- 904: [Vitória](Clubes/vitoriafutebolclube.md) e Univ Hije
 - 905: Palnor Club e Vila Norte
 - 906: Hije de Palnor e Atl Zinyo
-- 907: Vitória e Zinya City
+- 907: [Vitória](Clubes/vitoriafutebolclube.md) e Zinya City
 - 908: Rio Grande e Univ Hije
 - 909: Hije de Palnor e Esporte Peixoto
 - 910: Palnor Club e Vila Norte
@@ -356,7 +356,7 @@ Maiores campeões da Primeira Liga Hije
 - 2º — Hijotano: 13 títulos
 - 3º — Zinya City: 10 títulos
 - 4º — Yutania City: 9 títulos
-- 4º — Vitória: 9 títulos
+- 4º — [Vitória](Clubes/vitoriafutebolclube.md): 9 títulos
 - 6º — Xitan City: 5 títulos
 - 6º — Atlético Liberdade: 5 títulos
 - 8º — Rio Grande: 4 títulos
