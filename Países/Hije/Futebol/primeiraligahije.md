@@ -238,7 +238,113 @@ Artilheiros por temporada
 
 Registro dos artilheiros das edições em que os dados estão disponíveis.
 
-Rebaixamentos por temporada
+Rebaixados da Primeira Liga Hije
+
+Temporadas de 902 a 910
+
+- 902: Rio Grande e Hijotano
+- 903: Hito e Falcão Norte
+- 904: Vitória e Univ Hije
+- 905: Palnor Club e Vila Norte
+- 906: Hije de Palnor e Atl Zinyo
+- 907: Vitória e Zinya City
+- 908: Rio Grande e Univ Hije
+- 909: Hije de Palnor e Esporte Peixoto
+- 910: Palnor Club e Vila Norte
+
+Temporadas de 911 a 920
+
+- 911: Hito e Zinya City
+- 912: Gen Diamond Yellow e Rio Grande
+- 913: Palnor Club e Univ Hije
+- 914: Vista Bella e Vila Norte
+- 915: Pedraguaínos e Atl Zinyo
+- 916: Rio Newen e Gen Diamond Yellow
+- 917: Hito e Falcão Norte
+- 918: Gen Diamond Yellow e Esporte Peixoto
+- 919: Falcão Norte e Palnor Club
+- 920: Vila Norte e Univ Hije
+
+Temporadas de 921 a 930
+
+- 921: Xitan City e Vista Bella
+- 922: Atlético Liberdade e Yutania City
+- 923: Palnor Club e Univ Hije
+- 924: Pedraguaínos e Falcão Norte
+- 925: Vista Bella e Vila Norte
+- 926: Rio Newen e Esporte Peixoto
+- 927: Palnor Club e Vista Bella
+- 928: Zinya City e Atl Zinyo
+- 929: Esporte Peixoto e Gen Diamond Yellow
+- 930: Pedraguaínos e Palnor Club
+
+Temporadas de 931 a 940
+
+- 931: Vila Norte e Vista Bella
+- 932: Pedraguaínos e Esporte Peixoto
+- 933: Gen Diamond Yellow e Univ Hije
+- 934: Atl Zinyo e Palnor Club
+- 935: Vista Bella e Pedraguaínos
+- 936: Esporte Peixoto e Vila Norte
+- 937: Palnor Club e Atlético Liberdade
+- 938: Vila Norte e Falcão Norte
+- 939: Atl Zinyo e Vista Bella
+- 940: Esporte Peixoto e Vila Norte
+
+Temporadas de 941 a 950
+
+- 941: Hito, Palnor Club e Pedraguaínos
+- 942: Univ Hije, Atl Zinyo e Esporte Peixoto
+- 943: Palnor Club, Vista Bella e Pedraguaínos
+- 944: Falcão Norte, Vila Norte e Gen Diamond Yellow
+- 945: Palnor Club, Esporte Peixoto e Pedraguaínos
+- 946: Rio Newen, Woarshire e Falcão Norte
+- 947: Univ Hije, Vila Norte e Esporte Peixoto
+- 948: Gen Diamond Yellow, Woarshire e Vista Bella
+- 949: Univ Hije, Atl Zinyo e Vila Norte
+- 950: Palnor Club, Gen Diamond Yellow e Esporte Peixoto
+
+Temporadas de 951 a 960
+
+- 951: Woarshire, Pedraguaínos e Falcão Norte
+- 952: Vila Norte, Gen Diamond Yellow e Vista Bella
+- 953: Univ Hije, Falcão Norte e Rio Newen
+- 954: SE Ettynia, Woarshire e Vista Bella
+- 955: Vila Norte, Gen Diamond Yellow e Rio Newen
+- 956: Univ Hije, Pedraguaínos e Woarshire
+- 957: Falcão Norte, Vila Norte e Gen Diamond Yellow
+- 958: Univ Hije, Rio Newen e Novo Hije
+- 959: Gen Diamond Yellow, SE Ettynia e Pedraguaínos
+- 960: Woarshire, Vista Bella e Falcão Norte
+
+Temporadas de 961 a 970
+
+- 961: Gen Diamond Yellow, Hije de Palnor e Esporte Peixoto
+- 962: Rio Newen, SE Ettynia e Pedraguaínos
+- 963: Atl Zinyo, Falcão Norte e Vila Norte
+- 964: Esporte Peixoto, Vista Bella e Novo Hije
+- 965: Falcão Norte, Vila Norte e Univ Hije
+- 966: Gen Diamond Yellow, Novo Hije e Woarshire
+- 967: Kotana Town, Univ Hije e Pedraguaínos
+- 968: PSC, Univ Hije e Pedraguaínos
+- 969: SE Ettynia, Gen Diamond Yellow e Novo Hije
+- 970: Zaminia City, Univ Hije e Sallya fo Arun
+
+Temporadas de 971 a 981
+
+- 971: Falcão Norte, Atl Zinyo e Vila Norte
+- 972: Univ Hije, Woarshire e Vista Bella
+- 973: Falcão Norte, Atl Zinyo e Vila Norte
+- 974: Kotana Town, SE Ettynia e Gen Diamond Yellow
+- 975: Pedraguaínos, Sallya fo Arun e Esporte Peixoto
+- 976: Kotana Town, Falcão Norte e Rio Newen
+- 977: Pedraguaínos, SE Ettynia e Woarshire
+- 978: Novo Hije, Rio Newen e Falcão Norte
+- 979: Vista Bella, Zaminia City e Gen Diamond Yellow
+- 980: Esporte Peixoto, SE Ettynia e Pedraguaínos
+- 981: Falcão Norte, Univ Hije e Woarshire
+
+
 
 Lista dos clubes rebaixados em cada edição.
 
