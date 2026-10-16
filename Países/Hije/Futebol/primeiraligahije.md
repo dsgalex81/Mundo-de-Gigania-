@@ -367,6 +367,20 @@ Maiores campeões da Primeira Liga Hije
 - 12º — Rio Newen: 1 título
 
 
+Títulos consecutivos
+
+Até a temporada de 981, nenhum clube havia conquistado a Primeira Liga Hije por quatro temporadas consecutivas.
+
+Quatro clubes conseguiram conquistar o título em três temporadas consecutivas:
+
+- Hijotano: 906, 907 e 908.
+- Zinya City: 944, 945 e 946.
+- Yutania City: 955, 956 e 957.
+- Palnor Club: 961, 962 e 963.
+
+O recorde de títulos consecutivos da competição permanece, portanto, em três temporadas.
+
+
 Clubes nunca rebaixados
 
 A Desportiva Ettynia é o único clube da história da Primeira Liga Hije que nunca foi rebaixado para uma divisão inferior.
