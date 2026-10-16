@@ -1,9 +1,9 @@
 Tonyfiz Fo Arun
 
-Posição: Volante
-Nascimento: 15 de dezembro de 918
-Local de nascimento: Palnor, Hije
-Aposentadoria: 954
+Posição: Volante                           
+Nascimento: 15 de dezembro de 918          
+Local de nascimento: Palnor, Hije          
+Aposentadoria: 954                         
 Último clube: Rio Grande (Hije)
 
 Tonyfiz Fo Arun foi um volante hijotano considerado um dos melhores jogadores de sua geração na posição. Conhecido por sua intensidade defensiva, seus botes certeiros e sua disposição para interromper as jogadas adversárias, construiu uma carreira marcada por grandes temporadas, mudanças de clube e uma ligação especial com o Rio Grande, seu time do coração.
