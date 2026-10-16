@@ -17,7 +17,7 @@ História
 
 Resumo da história do país e dos principais acontecimentos.
 
-- [História de Hije](Hije/Historia.md)
+- [História de Hije](Hije/História.md)
 
 Futebol
 
