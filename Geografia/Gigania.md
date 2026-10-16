@@ -21,7 +21,7 @@ Famatins;
 Famato;
 Grande Jotan;
 Hamanoa;
-Hije;
+[Hije](Hije.md)
 Jatoma;
 Jatoma do Norte;
 Lawtoria;
