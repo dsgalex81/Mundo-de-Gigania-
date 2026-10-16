@@ -3,7 +3,7 @@ Armando Bah
 Posição: Ponta esquerda                    
 Número: 10                                 
 Nascimento: 870                            
-Local de nascimento: Vila Norte, Yutania, Hije
+Local de nascimento: Vila Norte, Yutania, Hije                               
 Aposentadoria: 903                         
 Clube: Vila Norte                          
 Seleção: Hije
