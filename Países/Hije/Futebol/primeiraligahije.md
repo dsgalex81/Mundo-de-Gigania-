@@ -244,5 +244,18 @@ Lista dos clubes rebaixados em cada edição.
 
 Recordes e estatísticas
 
-Maiores campeões e outros recordes históricos da competição.
+Maiores campeões da Primeira Liga Hije
 
+- 1º — Desportiva Ettynia: 16 títulos
+- 2º — Hijotano: 13 títulos
+- 3º — Zinya City: 10 títulos
+- 4º — Yutania City: 9 títulos
+- 4º — Vitória: 9 títulos
+- 6º — Xitan City: 5 títulos
+- 6º — Atlético Liberdade: 5 títulos
+- 8º — Rio Grande: 4 títulos
+- 8º — Palnor Club: 4 títulos
+- 10º — Hije de Palnor: 3 títulos
+- 10º — Hito: 3 títulos
+- 12º — Rosnari: 1 título
+- 12º — Rio Newen: 1 título
