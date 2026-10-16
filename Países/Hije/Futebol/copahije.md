@@ -64,7 +64,7 @@ Campeão: Hito
 
 934
 
-Campeão: Desportiva Ettynia
+Campeão: [Desportiva Ettynia](Clubes/desportivaettyniahije.md)
 
 - Falcão Norte 0x3 Desportiva Ettynia
 
@@ -130,7 +130,7 @@ Campeão: Novo Hije
 
 945
 
-Campeão: Desportiva Ettynia
+Campeão: [Desportiva Ettynia](Clubes/desportivaettyniahije.md)
 
 - Desportiva Ettynia 1x0 Hito
 
@@ -254,7 +254,7 @@ Campeão: Hito
 
 964
 
-Campeão: Desportiva Ettynia
+Campeão: [Desportiva Ettynia](Clubes/desportivaettyniahije.md)
 
 - Hito 1x2 Desportiva Ettynia
 - Desportiva Ettynia 1x0 Hito
@@ -331,42 +331,42 @@ Campeão: Hijotano
 
 975
 
-Campeão: Desportiva Ettynia
+Campeão: [Desportiva Ettynia](Clubes/desportivaettyniahije.md)
 
 - Rosnari 0x1 Desportiva Ettynia
 - Desportiva Ettynia 2x1 Rosnari
 
 976
 
-Campeão: Desportiva Ettynia
+Campeão: [Desportiva Ettynia](Clubes/desportivaettyniahije.md)
 
 - Hito 3x1 Desportiva Ettynia
 - Desportiva Ettynia 3x0 Hito
 
 977
 
-Campeão: Desportiva Ettynia
+Campeão: [Desportiva Ettynia](Clubes/desportivaettyniahije.md)
 
 - Rosnari 2x1 Desportiva Ettynia
 - Desportiva Ettynia 3x0 Rosnari
 
 978
 
-Campeão: Desportiva Ettynia
+Campeão: [Desportiva Ettynia](Clubes/desportivaettyniahije.md)
 
 - Desportiva Ettynia 0x0 Hijotano
 - Hijotano 1x2 Desportiva Ettynia
 
 979
 
-Campeão: Desportiva Ettynia
+Campeão: [Desportiva Ettynia](Clubes/desportivaettyniahije.md)
 
 - Desportiva Ettynia 0x2 Atlético Liberdade
 - Atlético Liberdade 1x3 Desportiva Ettynia
 
 980
 
-Campeão: Desportiva Ettynia
+Campeão: [Desportiva Ettynia](Clubes/desportivaettyniahije.md)
 
 - Desportiva Ettynia 4x0 Palnor Club
 - Palnor Club 1x0 Desportiva Ettynia
@@ -381,7 +381,7 @@ Campeão: Palnor Club
 Ranking de títulos da Copa Hije
 
 1. Hito — 13 títulos
-2. Desportiva Ettynia — 9 títulos
+2. [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 9 títulos
 3. Palnor Club — 5 títulos
 4. Rio Grande — 3 títulos
 5. Hije de Palnor — 3 títulos
