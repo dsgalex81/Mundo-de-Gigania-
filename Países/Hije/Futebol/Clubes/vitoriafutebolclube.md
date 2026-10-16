@@ -54,7 +54,7 @@ Títulos
 Títulos oficiais
 
 - 🏆 Taça da Dinastia: 938
-- ⚽ Primeira Liga Hije: 900, 910, 928, 929, 937, 949, 965, 979
+- ⚽ [Primeira Liga Hije](../primeiraligahije.md): 900, 910, 928, 929, 937, 949, 965, 979
 - 🏟️ Copa Hije: 946, 951
 - 🌍 Copa Hijotania: 968
 
@@ -114,7 +114,7 @@ Scott Thurston nasceu em Xitan e cresceu na própria cidade. Iniciou sua formaç
 
 Em 936, transferiu-se para o Vitória, terminando sua primeira temporada com o quarto lugar na liga.
 
-Em 937, conquistou a Primeira Liga Hije pelo clube. Na Copa de Seleções daquele ano, também terminou na terceira colocação.
+Em 937, conquistou a [Primeira Liga Hije](../primeiraligahije.md) pelo clube. Na Copa de Seleções daquele ano, também terminou na terceira colocação.
 
 A temporada de 938 foi ainda mais especial: Thurston participou da campanha que levou o Vitória ao título da Taça da Dinastia, embora o clube tenha terminado a liga como vice-campeão.
 
@@ -122,7 +122,7 @@ Em 939, o Vitória terminou apenas na nona colocação, e o zagueiro deixou a eq
 
 Títulos pelo Vitória:
 
-- ⚽ Primeira Liga Hije: 937
+- ⚽ [Primeira Liga Hije](../primeiraligahije.md): 937
 - 🏆 Taça da Dinastia: 938
 
 Alex Coleano
