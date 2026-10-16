@@ -43,7 +43,7 @@ Estados
 
 População e distribuição demográfica
 População nacional
-• 940: 44,4 milhões de habitantes.
+• 940: 44,4 milhões de habitantes.         
 • 970: 49,4 milhões de habitantes.
 
 
