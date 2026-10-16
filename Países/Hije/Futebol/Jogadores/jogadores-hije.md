@@ -10,6 +10,8 @@ Pontas
 
 - [Armando Bah](armando-bah.md) — Ponta esquerda e camisa 10 do Vila Norte, considerado um dos maiores jogadores da primeira era do futebol em Hije.
 
+- [Gerson Armando](gerson-armando.md) — Ponta direita e camisa 10 do Hijotano, foi tricampeão consecutivo da Primeira Liga Hije e campeão da Copa do Mundo OIFM de 906 pela seleção hijotana.
+
 Meio-campistas
 
 - [George Oros](george-oros.md) — Meio-campista central e volante que conquistou títulos por Yutania City e Rio Grande, além de ser o único jogador nascido em Hije a vencer o prêmio de Melhor Jogador de Gigania.
