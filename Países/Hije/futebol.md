@@ -19,13 +19,13 @@ Relação dos clubes de Hije, incluindo suas histórias, títulos e rivalidades.
 
 Competições nacionais
 
--[Copa Hije](Futebol/copahije.md)
+- [Copa Hije](Futebol/copahije.md)
 
 Campeonatos pré-nacionais, competições que eram as mais importantes de Hije antes do surgimento da Primeira Liga Hije 
 
--[Campeonato Sulista](Futebol/campeonatosulista.md)
--[Liga Yutania](Futebol/ligayutania.md)
--[Taça Zinya](Futebol/tacazinya.md)
+- [Campeonato Sulista](Futebol/campeonatosulista.md)
+- [Liga Yutania](Futebol/ligayutania.md)
+- [Taça Zinya](Futebol/tacazinya.md)
 
 
 Seleção nacional
