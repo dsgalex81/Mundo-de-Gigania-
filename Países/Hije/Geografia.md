@@ -104,7 +104,7 @@ Esta seção apresenta as cidades mais populosas de Hije, com suas respectivas u
 
 Ranking populacional em 970
 
-Posição| Cidade| Estado| População
+Posição| Cidade| Estado| População         
 1| Ettynia| Hamanoka| 6.000.000            
 2| Zinya| Zinya| 4.000.000                 
 3| Yutania| Yutania (capital federal)| 3.500.000                
@@ -128,6 +128,9 @@ Observações
 - Ettynia, Palnor e Rosnari integram a Zona Metropolitana de Platynia.
 
 As populações apresentadas correspondem ao ano de 970.
+
+
+Regiões Geográficas e Demográficas
 
 Clima e natureza
 
