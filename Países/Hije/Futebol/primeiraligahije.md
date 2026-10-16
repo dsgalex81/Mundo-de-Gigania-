@@ -73,14 +73,14 @@ O Zinya City venceu o Yutania City por 2 a 1 e se tornou o primeiro campeão hij
 
 Mesmo perdendo a partida de volta por 2 a 0, o Vitória conquistou o título, vencendo o confronto por 3 a 2 no placar agregado.
 
-901 — Desportiva Ettynia
+901 — [Desportiva Ettynia](Clubes/desportivaettyniahije.md)
 
 - Jogo de ida, em Palnor: Palnor Club 1–1 Desportiva Ettynia
 - Jogo de volta, em Ettynia: Desportiva Ettynia 2–0 Palnor Club
 
 Após empatar a primeira partida, a Desportiva Ettynia venceu por 2 a 0 em casa e conquistou o título.
 
-902 — Desportiva Ettynia
+902 — [Desportiva Ettynia](Clubes/desportivaettyniahije.md)
 
 - Jogo de ida: Hito 0–1 Desportiva Ettynia
 - Jogo de volta: Desportiva Ettynia 1–1 Hito
@@ -137,24 +137,24 @@ Década de 900
 
 - 909: Atlético Liberdade — 42 pontos
 - 910: Vitória — 39 pontos
-- 911: Desportiva Ettynia — 50 pontos
+- 911: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 50 pontos
 - 912: Yutania City — 44 pontos
-- 913: Desportiva Ettynia — 49 pontos
+- 913: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 49 pontos
 - 914: Zinya City — 44 pontos
-- 915: Desportiva Ettynia — 44 pontos
+- 915: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 44 pontos
 - 916: Hijotano — 44 pontos
 - 917: Rio Grande — 54 pontos
-- 918: Desportiva Ettynia — 47 pontos
+- 918: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 47 pontos
 - 919: Atlético Liberdade — 47 pontos
 
 Década de 920
 
 - 920: Hijotano — 45 pontos
 - 921: Rio Grande — 51 pontos
-- 922: Desportiva Ettynia — 48 pontos
-- 923: Desportiva Ettynia — 53 pontos
+- 922: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 48 pontos
+- 923: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 53 pontos
 - 924: Hijotano — 61 pontos
-- 925: Desportiva Ettynia — 54 pontos
+- 925: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 54 pontos
 - 926: Hije de Palnor — 58 pontos
 - 927: Yutania City — 56 pontos
 - 928: Vitória — 51 pontos
@@ -166,7 +166,7 @@ Década de 930
 - 931: Atlético Liberdade — 56 pontos
 - 932: Vitória — 56 pontos
 - 933: Atlético Liberdade — 52 pontos
-- 934: Desportiva Ettynia — 67 pontos
+- 934: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 67 pontos
 - 935: Hijotano — 52 pontos
 - 936: Rio Newen — 53 pontos
 - 937: Vitória — 59 pontos
@@ -178,11 +178,11 @@ Década de 940
 - 940: Yutania City — 62 pontos
 - 941: Yutania City — 65 pontos
 - 942: Atlético Liberdade — 59 pontos
-- 943: Desportiva Ettynia — 75 pontos
+- 943: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 75 pontos
 - 944: Zinya City — 70 pontos
 - 945: Zinya City — 76 pontos
 - 946: Zinya City — 74 pontos
-- 947: Desportiva Ettynia — 77 pontos
+- 947: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 77 pontos
 - 948: Hijotano — 76 pontos
 - 949: Vitória — 79 pontos
 
@@ -191,7 +191,7 @@ Década de 950
 - 950: Hijotano — 83 pontos
 - 951: Zinya City — 76 pontos
 - 952: Yutania City — 78 pontos
-- 953: Desportiva Ettynia — 86 pontos
+- 953: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 86 pontos
 - 954: Hijotano — 90 pontos
 - 955: Yutania City — 84 pontos
 - 956: Yutania City — 79 pontos
@@ -214,13 +214,13 @@ Década de 960
 
 Década de 970
 
-- 970: Desportiva Ettynia — 76 pontos
+- 970: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 76 pontos
 - 971: Hije de Palnor — 71 pontos
-- 972: Desportiva Ettynia — 77 pontos
+- 972: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 77 pontos
 - 973: Yutania City — 77 pontos
 - 974: Hijotano — 72 pontos
 - 975: Hito — 79 pontos
-- 976: Desportiva Ettynia — 76 pontos
+- 976: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 76 pontos
 - 977: Hije de Palnor — 72 pontos
 - 978: Vitória — 74 pontos
 - 979: Xitan City — 73 pontos
@@ -352,7 +352,7 @@ Recordes e estatísticas
 
 Maiores campeões da Primeira Liga Hije
 
-- 1º — Desportiva Ettynia: 16 títulos
+- 1º — [Desportiva Ettynia](Clubes/desportivaettyniahije.md): 16 títulos
 - 2º — Hijotano: 13 títulos
 - 3º — Zinya City: 10 títulos
 - 4º — Yutania City: 9 títulos
