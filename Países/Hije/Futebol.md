@@ -6,7 +6,7 @@ Esta página reúne as informações sobre o futebol de Hije, incluindo suas com
 
 Ligas nacionais
 
-[Primeira Liga Hije]
+[Primeira Liga Hije](Países/Hije/Futebol/primeira liga hije.md)
 Segunda Liga Hije
 Terceira Liga Hije
 Quarta Liga Hijr
