@@ -1,4 +1,4 @@
-![Escudo da Desportiva](Países/Hije/Futebol/Clubes/Desportivaettynia.png)
+![Escudo da Desportiva](Desportivaettynia.png)
 
 Desportiva Ettynia Hije
 
