@@ -1,4 +1,4 @@
-![Escudo da Desportiva](Desportiva Ettynia.png)
+![Escudo da Desportiva](Desportivaettynia.png)
 
 Desportiva Ettynia Hije
 
