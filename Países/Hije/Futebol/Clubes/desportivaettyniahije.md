@@ -15,7 +15,7 @@ A Desportiva é a maior campeã da Primeira Liga Hije, com 16 títulos, e també
 - Cores principais: vinho e preto
 - Estádio: Estádio Arvind Khan, popularmente conhecido como Império Cor de Vinho
 - Capacidade do estádio: 76.200 espectadores
-- Principal competição nacional: Primeira Liga Hije
+- Principal competição nacional: [Primeira Liga Hije](../Futebol/primeiraligahije.md)
 
 Origem das cores e do uniforme
 
