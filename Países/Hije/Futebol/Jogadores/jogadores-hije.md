@@ -16,7 +16,7 @@ Meio-campistas
 
 Volantes
 
-- [Tonyfiz Fo Arun](tonyfizfoarun.md) — Volante conhecido por sua capacidade defensiva, que conquistou títulos em Hije e Palaty durante uma longa carreira.
+- [Tonyfiz Fo Arun](tonyfizfoarum.md) — Volante conhecido por sua capacidade defensiva, que conquistou títulos em Hije e Palaty durante uma longa carreira.
 
 Zagueiros
 
