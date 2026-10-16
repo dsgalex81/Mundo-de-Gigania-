@@ -6,10 +6,12 @@ Esta página reúne as informações sobre o futebol de Hije, incluindo suas com
 
 Ligas nacionais
 
-[Primeira Liga Hije](Países/Hije/Futebol/primeira liga hije.md)
-Segunda Liga Hije
-Terceira Liga Hije
-Quarta Liga Hijr
+O sistema de ligas de Hije é composto por quatro divisões nacionais.
+
+- [Primeira Liga Hije](primeira%20liga%20hije.md)
+- "Segunda Liga Hije" (segunda%20liga%20hije.md)
+- "Terceira Liga Hije" (terceira%20liga%20hije.md)
+- "Quarta Liga Hije" (quarta%20liga%20hije.md)
 
 Clubes
 
