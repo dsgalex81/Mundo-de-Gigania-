@@ -10,7 +10,7 @@ Informações sobre a localização do país, suas fronteiras e seu território.
 
 Regiões e divisões territoriais
 
-Informações sobre as divisões geográficas e administrativas de Hije.
+Hije é subdividido em 23 Estados e uma capital Federal 
 
 Cidades
 
