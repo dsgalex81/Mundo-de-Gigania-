@@ -8,7 +8,7 @@ A Desportiva é a maior campeã da Primeira Liga Hije, com 16 títulos, e també
 
 - Nome completo: Desportiva Ettynia Hije
 - Nome popular: Desportiva
-- País: Hije
+- País: [Hije](../../../Hije.md)
 - Cidade: Ettynia
 - Fundação informal: 890
 - Oficialização: 899
