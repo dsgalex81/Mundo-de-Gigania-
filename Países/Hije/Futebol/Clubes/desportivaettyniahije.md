@@ -1,3 +1,5 @@
+![Escudo da Desportiva](Desportiva Ettynia.png)
+
 Desportiva Ettynia Hije
 
 A Desportiva Ettynia Hije, conhecida popularmente apenas como Desportiva, é um clube de futebol hijotano sediado em Ettynia, Hije. Fundado informalmente em 890 e oficializado em 899, o clube disputa a Primeira Liga Hije desde a primeira edição da competição.
