@@ -1,3 +1,4 @@
+![Escudo do Vitória](vitoriafcescudo.png)
 Vitória Futebol Clube
 
 Informações gerais
