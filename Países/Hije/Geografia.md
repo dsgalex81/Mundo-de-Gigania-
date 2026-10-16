@@ -105,19 +105,19 @@ Esta seção apresenta as cidades mais populosas de Hije, com suas respectivas u
 Ranking populacional em 970
 
 Posição| Cidade| Estado| População
-1| Ettynia| Hamanoka| 6.000.000
-2| Zinya| Zinya| 4.000.000
-3| Yutania| Yutania (capital federal)| 3.500.000
-4| Xitan| Xitan| 3.100.000
-5| Hilder| Horania| 1.900.000
-6| Palnor| Palnor| 1.500.000
-7| Rosnari| Palnor| 960.000
-8| Gunier| Hamanoka| 950.000
-9| Yaonier| Hamanoka| 900.000
-10| Monterreal| Montes Belos| 870.000
-11| Gungoi| Hamanoka| 850.000
-12| Yarozz| Zinya| 810.000
-13| Zaminia| Sona| 720.000
+1| Ettynia| Hamanoka| 6.000.000            
+2| Zinya| Zinya| 4.000.000                 
+3| Yutania| Yutania (capital federal)| 3.500.000                
+4| Xitan| Xitan| 3.100.000                
+5| Hilder| Horania| 1.900.000              
+6| Palnor| Palnor| 1.500.000               
+7| Rosnari| Palnor| 960.000                
+8| Gunier| Hamanoka| 950.000               
+9| Yaonier| Hamanoka| 900.000              
+10| Monterreal| Montes Belos| 870.000      
+11| Gungoi| Hamanoka| 850.000              
+12| Yarozz| Zinya| 810.000                 
+13| Zaminia| Sona| 720.000                 
 
 Observações
 
