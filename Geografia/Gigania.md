@@ -9,7 +9,7 @@ Futebol
 
 A organização responsável pelo futebol de Gigania é a GFA (Gigania Football Association)
 
-Em Gigania existem 32 Ligas Nacionais afiliadas a GFA
+Em Gigania existem 30 Ligas Nacionais afiliadas a GFA
 
 Entre os registros do continente estão os campeonatos nacionais e os títulos internacionais conquistados por clubes giganianos.
 
