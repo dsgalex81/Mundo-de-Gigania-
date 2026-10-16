@@ -453,7 +453,7 @@ Os únicos países de Gigania que não possuem representantes dessa rede procura
 
 Rivalidades em Ettynia
 
-Vitória Futebol Clube — Derby de Ettynia
+[Vitória Futebol Clube](vitoriafutebolclube.md) — Derby de Ettynia
 
 O Vitória Futebol Clube é o principal rival local da Desportiva e é considerado o segundo maior clube de Ettynia.
 
