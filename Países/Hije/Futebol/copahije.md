@@ -1,6 +1,6 @@
 Copa Hije
 
-A Copa Hije nasceu em 925, criada pela FHF (Federação Hijotana de Futebol) para ser a segunda competição nacional mais importante contrastando com a Primeira Liga Hije
+A Copa Hije nasceu em 925, criada pela FHF (Federação Hijotana de Futebol) para ser a segunda competição nacional mais importante contrastando com a [Primeira Liga Hije](primeiraligahije.md)
 
 
 Copa Hije
