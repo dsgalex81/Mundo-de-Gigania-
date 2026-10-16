@@ -7,7 +7,9 @@ Informações gerais
 
 Futebol
 
-Gigania possui diversas ligas nacionais, clubes históricos e competições próprias.
+A organização responsável pelo futebol de Gigania é a GFA (Gigania Football Association)
+
+Em Gigania existem 32 Ligas Nacionais afiliadas a GFA
 
 Entre os registros do continente estão os campeonatos nacionais e os títulos internacionais conquistados por clubes giganianos.
 
@@ -21,7 +23,7 @@ Famatins;
 Famato;
 Grande Jotan;
 Hamanoa;
-[Hije](Hije.md)
+Hije;
 Jatoma;
 Jatoma do Norte;
 Lawtoria;
