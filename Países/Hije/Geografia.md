@@ -99,7 +99,35 @@ No estado de Hamanoka maior parte da população vive nas cidades em volta de Et
 23. Silve - 410k hab
 
 Principais cidades
-Esta seção reunirá informações sobre as principais cidades de Hije, incluindo suas populações e importância regional.
+
+Esta seção apresenta as cidades mais populosas de Hije, com suas respectivas unidades administrativas e populações em 970.
+
+Ranking populacional em 970
+
+Posição| Cidade| Estado| População
+1| Ettynia| Hamanoka| 6.000.000
+2| Zinya| Zinya| 4.000.000
+3| Yutania| Yutania (capital federal)| 3.500.000
+4| Xitan| Xitan| 3.100.000
+5| Hilder| Horania| 1.900.000
+6| Palnor| Palnor| 1.500.000
+7| Rosnari| Palnor| 960.000
+8| Gunier| Hamanoka| 950.000
+9| Yaonier| Hamanoka| 900.000
+10| Monterreal| Montes Belos| 870.000
+11| Gungoi| Hamanoka| 850.000
+12| Yarozz| Zinya| 810.000
+13| Zaminia| Sona| 720.000
+
+Observações
+
+- Ettynia é a cidade mais populosa de Hije, com 6 milhões de habitantes.
+- Yutania é a capital federal e sede do Poder Executivo.
+- Xitan é a sede do Poder Legislativo, enquanto Zinya é a sede do Poder Judiciário.
+- Yutania, Xitan e Zinya integram a Zona Metropolitana XYZ.
+- Ettynia, Palnor e Rosnari integram a Zona Metropolitana de Platynia.
+
+As populações apresentadas correspondem ao ano de 970.
 
 Clima e natureza
 
