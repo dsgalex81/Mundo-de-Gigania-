@@ -4,10 +4,10 @@ Esta seção reúne as informações geográficas do universo de Gigania e Kator
 
 Continentes
 
-- Terania
-- Gigania
-- Euperis
-- Katoria
+- [Gigania](Gigania.md)
+- [Katoria](Katoria.md)
+- [Terania](Terania.md)
+- [Euperis](Euperis.md)
 
 Países
 
