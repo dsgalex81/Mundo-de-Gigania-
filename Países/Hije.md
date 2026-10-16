@@ -11,19 +11,19 @@ Geografia
 
 Informações sobre o território, as regiões e as cidades de Hije.
 
-- [Geografia de Hije](Hije/geografia.md)
+- [Geografia de Hije](Hije/Geografia.md)
 
 História
 
 Resumo da história do país e dos principais acontecimentos.
 
-- [História de Hije](Hije/historia.md)
+- [História de Hije](Hije/Historia.md)
 
 Futebol
 
 Informações sobre o futebol nacional, incluindo clubes, ligas e competições.
 
-- [Futebol de Hije](Hije/futebol.md)
+- [Futebol de Hije](Hije/Futebol.md)
 
 Outros assuntos
 
