@@ -4,7 +4,7 @@ Esta seção reúne os países do mundo, organizados por continente. Cada país 
 
 Gigania
 
-- [Hije](hije.md)
+- [Hije](países/hije.md)
 
 Katoria
 
