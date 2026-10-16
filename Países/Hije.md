@@ -23,7 +23,7 @@ Futebol
 
 Informações sobre o futebol nacional, incluindo clubes, ligas e competições.
 
-- [Futebol de Hije](Hije/Futebol.md)
+- [Futebol de Hije](Hije/futebol.md)
 
 Outros assuntos
 
