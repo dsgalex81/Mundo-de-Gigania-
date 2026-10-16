@@ -4,7 +4,7 @@ Primeira Liga Hije
 
 Origem
 
-A Primeira Liga Hije nasceu no ano de 899, quando a FHF (Federação Hijotana de Futebol) decidiu criar uma competição que reunisse os clubes mais fortes de todo o país.
+A Primeira Liga Hije nasceu no ano de 899, quando a [FHF](federacaohijotana.md) (Federação Hijotana de Futebol) decidiu criar uma competição que reunisse os clubes mais fortes de todo o país.
 
 Formato histórico
 
