@@ -37,7 +37,7 @@ O ano de 899, presente no escudo, representa a oficialização da Desportiva e o
 
 A Desportiva é a maior campeã da Primeira Liga Hije e da Taça da Dinastia, além de possuir nove conquistas da Copa Hije.
 
-Primeira Liga Hije — 16 títulos
+[Primeira Liga Hije](../primeiraligahije.md) — 16 títulos
 
 - 901
 - 902
@@ -159,7 +159,7 @@ Taça da Dinastia
 - 948
 - 953
 
-Primeira Liga Hije
+[Primeira Liga Hije](../primeiraligahije.md)
 
 - 947
 - 953
@@ -182,7 +182,7 @@ Copa Hije
 - 979
 - 980
 
-Primeira Liga Hije
+[Primeira Liga Hije](../primeiraligahije.md)
 
 - 970
 - 972
