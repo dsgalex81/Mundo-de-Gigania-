@@ -383,4 +383,4 @@ O recorde de títulos consecutivos da competição permanece, portanto, em três
 
 Clubes nunca rebaixados
 
-A Desportiva Ettynia é o único clube da história da Primeira Liga Hije que nunca foi rebaixado para uma divisão inferior.
+A [Desportiva Ettynia](Clubes/desportivaettyniahije.md) é o único clube da história da Primeira Liga Hije que nunca foi rebaixado para uma divisão inferior.
