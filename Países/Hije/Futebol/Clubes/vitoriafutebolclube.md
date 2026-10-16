@@ -3,7 +3,7 @@ Vitória Futebol Clube
 Informações gerais
 
 - Nome completo: Vitória Futebol Clube
-- País: Hije
+- País: [Hije](../../../Hije.md)
 - Cidade: Ettynia
 - Fundação: 15 de agosto de 890
 - Cores: Azul e branco
