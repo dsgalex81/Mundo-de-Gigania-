@@ -136,7 +136,7 @@ Campeão: [Desportiva Ettynia](Clubes/desportivaettyniahije.md)
 
 946
 
-Campeão: Vitória
+Campeão: [Vitória](Clubes/vitoriafutebolclube.md)
 
 - Vitória 1x0 Atlético Liberdade
 
@@ -166,7 +166,7 @@ Campeão: Novo Hije
 
 951
 
-Campeão: Vitória
+Campeão: [Vitória](Clubes/vitoriafutebolclube.md)
 
 - Vitória 2x0 Kotana Town
 
@@ -388,7 +388,7 @@ Ranking de títulos da Copa Hije
 6. Hijotano — 3 títulos
 7. Xitan City — 3 títulos
 8. Atlético Liberdade — 2 títulos
-9. Vitória — 2 títulos
+9. [Vitória](Clubes/vitoriafutebolclube.md) — 2 títulos
 10. Atl Zinyo — 2 títulos
 11. Univ Hije — 2 títulos
 12. Novo Hije — 2 títulos
