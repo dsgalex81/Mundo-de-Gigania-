@@ -56,7 +56,7 @@ A Desportiva é a maior campeã da Primeira Liga Hije e da Taça da Dinastia, al
 - 972
 - 976
 
-Copa Hije — 9 títulos
+[Copa Hije](../copahije.md) — 9 títulos
 
 - 934
 - 945
@@ -173,7 +173,7 @@ Taça da Dinastia
 - 961
 - 976
 
-Copa Hije
+[Copa Hije](../copahije.md)
 
 - 975
 - 976
