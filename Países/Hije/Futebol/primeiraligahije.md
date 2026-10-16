@@ -131,82 +131,108 @@ Placar agregado: Hijotano 1–0 Hito.
 
 Campeões de 909 a 981
 
-A partir de 909, a Primeira Liga Hije passou a ser disputada em pontos corridos. Os campeões de cada temporada estão listados abaixo, acompanhados de suas respectivas pontuações.
+A partir de 909, a Primeira Liga Hije passou a ser disputada em pontos corridos. A seguir, estão listados os campeões de cada temporada e suas respectivas pontuações.
 
-Temporada| Campeão| Pontos
-909| Atlético Liberdade| 42
-910| Vitória| 39
-911| Desportiva Ettynia| 50
-912| Yutania City| 44
-913| Desportiva Ettynia| 49
-914| Zinya City| 44
-915| Desportiva Ettynia| 44
-916| Hijotano| 44
-917| Rio Grande| 54
-918| Desportiva Ettynia| 47
-919| Atlético Liberdade| 47
-920| Hijotano| 45
-921| Rio Grande| 51
-922| Desportiva Ettynia| 48
-923| Desportiva Ettynia| 53
-924| Hijotano| 61
-925| Desportiva Ettynia| 54
-926| Hije de Palnor| 58
-927| Yutania City| 56
-928| Vitória| 51
-929| Vitória| 59
-930| Xitan City| 54
-931| Atlético Liberdade| 56
-932| Vitória| 56
-933| Atlético Liberdade| 52
-934| Desportiva Ettynia| 67
-935| Hijotano| 52
-936| Rio Newen| 53
-937| Vitória| 59
-938| Rio Grande| 55
-939| Hijotano| 66
-940| Yutania City| 62
-941| Yutania City| 65
-942| Atlético Liberdade| 59
-943| Desportiva Ettynia| 75
-944| Zinya City| 70
-945| Zinya City| 76
-946| Zinya City| 74
-947| Desportiva Ettynia| 77
-948| Hijotano| 76
-949| Vitória| 79
-950| Hijotano| 83
-951| Zinya City| 76
-952| Yutania City| 78
-953| Desportiva Ettynia| 86
-954| Hijotano| 90
-955| Yutania City| 84
-956| Yutania City| 79
-957| Yutania City| 76
-958| Xitan City| 80
-959| Zinya City| 84
-960| Xitan City| 79
-961| Palnor Club| 94
-962| Palnor Club| 93
-963| Palnor Club| 86
-964| Zinya City| 86
-965| Vitória| 85
-966| Palnor Club| 86
-967| Hijotano| 76
-968| Hito| 74
-969| Hito| 67
-970| Desportiva Ettynia| 76
-971| Hije de Palnor| 71
-972| Desportiva Ettynia| 77
-973| Yutania City| 77
-974| Hijotano| 72
-975| Hito| 79
-976| Desportiva Ettynia| 76
-977| Hije de Palnor| 72
-978| Vitória| 74
-979| Xitan City| 73
-980| Zinya City| 68
-981| Rosnari| 76
+Década de 900
+
+- 909: Atlético Liberdade — 42 pontos
+- 910: Vitória — 39 pontos
+- 911: Desportiva Ettynia — 50 pontos
+- 912: Yutania City — 44 pontos
+- 913: Desportiva Ettynia — 49 pontos
+- 914: Zinya City — 44 pontos
+- 915: Desportiva Ettynia — 44 pontos
+- 916: Hijotano — 44 pontos
+- 917: Rio Grande — 54 pontos
+- 918: Desportiva Ettynia — 47 pontos
+- 919: Atlético Liberdade — 47 pontos
+
+Década de 920
+
+- 920: Hijotano — 45 pontos
+- 921: Rio Grande — 51 pontos
+- 922: Desportiva Ettynia — 48 pontos
+- 923: Desportiva Ettynia — 53 pontos
+- 924: Hijotano — 61 pontos
+- 925: Desportiva Ettynia — 54 pontos
+- 926: Hije de Palnor — 58 pontos
+- 927: Yutania City — 56 pontos
+- 928: Vitória — 51 pontos
+- 929: Vitória — 59 pontos
+
+Década de 930
+
+- 930: Xitan City — 54 pontos
+- 931: Atlético Liberdade — 56 pontos
+- 932: Vitória — 56 pontos
+- 933: Atlético Liberdade — 52 pontos
+- 934: Desportiva Ettynia — 67 pontos
+- 935: Hijotano — 52 pontos
+- 936: Rio Newen — 53 pontos
+- 937: Vitória — 59 pontos
+- 938: Rio Grande — 55 pontos
+- 939: Hijotano — 66 pontos
+
+Década de 940
+
+- 940: Yutania City — 62 pontos
+- 941: Yutania City — 65 pontos
+- 942: Atlético Liberdade — 59 pontos
+- 943: Desportiva Ettynia — 75 pontos
+- 944: Zinya City — 70 pontos
+- 945: Zinya City — 76 pontos
+- 946: Zinya City — 74 pontos
+- 947: Desportiva Ettynia — 77 pontos
+- 948: Hijotano — 76 pontos
+- 949: Vitória — 79 pontos
+
+Década de 950
+
+- 950: Hijotano — 83 pontos
+- 951: Zinya City — 76 pontos
+- 952: Yutania City — 78 pontos
+- 953: Desportiva Ettynia — 86 pontos
+- 954: Hijotano — 90 pontos
+- 955: Yutania City — 84 pontos
+- 956: Yutania City — 79 pontos
+- 957: Yutania City — 76 pontos
+- 958: Xitan City — 80 pontos
+- 959: Zinya City — 84 pontos
+
+Década de 960
+
+- 960: Xitan City — 79 pontos
+- 961: Palnor Club — 94 pontos
+- 962: Palnor Club — 93 pontos
+- 963: Palnor Club — 86 pontos
+- 964: Zinya City — 86 pontos
+- 965: Vitória — 85 pontos
+- 966: Palnor Club — 86 pontos
+- 967: Hijotano — 76 pontos
+- 968: Hito — 74 pontos
+- 969: Hito — 67 pontos
+
+Década de 970
+
+- 970: Desportiva Ettynia — 76 pontos
+- 971: Hije de Palnor — 71 pontos
+- 972: Desportiva Ettynia — 77 pontos
+- 973: Yutania City — 77 pontos
+- 974: Hijotano — 72 pontos
+- 975: Hito — 79 pontos
+- 976: Desportiva Ettynia — 76 pontos
+- 977: Hije de Palnor — 72 pontos
+- 978: Vitória — 74 pontos
+- 979: Xitan City — 73 pontos
+
+Temporada de 980
+
+- 980: Zinya City — 68 pontos
+
+Temporada de 981
+
+- 981: Rosnari — 76 pontos
+
 
 Artilheiros por temporada
 
