@@ -259,3 +259,8 @@ Maiores campeões da Primeira Liga Hije
 - 10º — Hito: 3 títulos
 - 12º — Rosnari: 1 título
 - 12º — Rio Newen: 1 título
+
+
+Clubes nunca rebaixados
+
+A Desportiva Ettynia é o único clube da história da Primeira Liga Hije que nunca foi rebaixado para uma divisão inferior.
