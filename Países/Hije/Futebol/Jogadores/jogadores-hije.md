@@ -30,6 +30,8 @@ Zagueiros
 
 - [Lindomar Freire](lindomar-freire.md) — Um dos primeiros ídolos de Hije, foi zagueiro histórico do Rio Grande e eternizou a camisa 55, conquistando três Ligas Hije e uma Taça da Dinastia.
 
+- [Joe Khan](joe-khan.md) — Zagueiro da Desportiva Ettynia e filho de Arvind Khan, conquistou duas Ligas Hije, duas Taças da Dinastia e integrou a seleção hijotana campeã mundial de 950.
+
 Laterais
 
 - Nenhum jogador adicionado ainda.
