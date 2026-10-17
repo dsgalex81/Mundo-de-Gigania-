@@ -105,7 +105,7 @@ Títulos pelo Vitória:
 - ⚽ Primeira Liga Hije: 937
 - 🏆 Taça da Dinastia: 938
 
-[Scott Thurston](../Jogadores/scott.thurston.md)
+[Scott Thurston](../Jogadores/scott-thurston.md)
 
 Posição: Zagueiro
 Nascimento: 907
@@ -178,11 +178,16 @@ Títulos pelo Vitória
 
 - ⚽ Primeira Liga Hije: 928, 929
 
+
+Outros Jogadores com grandes passagens pelo Vitória
+
+- [Fabiano Feitosa](../Jogadores/fabiano-feitosa.md)
+
 Rivalidades
 
 Rivalidades em Ettynia
 
-Vitória x Desportiva Ettynia — Derby de Ettynia
+Vitória x [Desportiva Ettynia](desportivaettyniahije.md) — Derby de Ettynia
 
 O confronto entre Vitória e Desportiva Ettynia é considerado o maior clássico do sul de Hije e recebe o nome de Derby de Ettynia.
 
