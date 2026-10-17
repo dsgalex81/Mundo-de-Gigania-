@@ -1,3 +1,9 @@
+<h1 align="center">Desportiva Ettynia</h1>
+
+<p align="center">
+  <img src="Desportivaettynia.png" alt="Escudo da Desportiva" width="200">
+</p>
+
 ![Escudo da Desportiva](Desportivaettynia.png)
 
 Desportiva Ettynia Hije
