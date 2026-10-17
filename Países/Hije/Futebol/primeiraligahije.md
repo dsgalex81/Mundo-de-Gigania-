@@ -103,7 +103,7 @@ Placar agregado: Zinya City 5–4 Hije de Palnor.
 
 Placar agregado: Xitan City 3–2 Hije de Palnor.
 
-905 — [Rio Grande](Clubes/aariogrande.md)
+905 — [Rio Grande](Clubes/aario-grande.md)
 
 - Jogo de ida: Hito 2–1 Rio Grande
 - Jogo de volta: Rio Grande 2–0 Hito
