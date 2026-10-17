@@ -474,7 +474,7 @@ Títulos informados:
 - 1 título da Copa Hijotania.
 - 1 título da Taça da Dinastia.
 
-Rio Grande — Clássico da Eternidade
+[Rio Grande](aario-grande.md) — Clássico da Eternidade
 
 O Rio Grande foi fundado em bairros de Ettynia que não eram tão ricos quanto os do Vitória, mas também não eram tão pobres quanto os da Desportiva.
 
@@ -501,7 +501,7 @@ Suas cores são azul, branco e amarelo, correspondentes às cores da cidade de E
 
 Rivalidades nacionais
 
-Hijotano — Encontro de Colossos
+[Hijotano](fchijotano.mf) — Encontro de Colossos
 
 O Hijotano é um clube da capital, Yutania, e um dos principais rivais nacionais da Desportiva.
 
