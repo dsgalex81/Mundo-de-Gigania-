@@ -90,6 +90,62 @@ Campanhas de destaque
 - 967: conquista simultânea da Primeira Liga Hije e da Copa Hije.
 - 971 e 972: vice-campeão da Taça da Dinastia.
 
+Hino
+
+O hino oficial do Futebol Clube Hijotano chama-se “Hijotano do Coração”. A composição celebra a fundação do clube em 890, sua origem popular em Yutania, a antiga identidade como Hije FC e a posterior mudança de nome para representar o povo hijotano.
+
+A letra também destaca a trajetória de conquistas da equipe, fazendo referência tanto ao título da Liga Yutania de 897 quanto à primeira conquista da Primeira Liga Hije, em 906.
+
+O hino reforça a relação entre o clube e o povo de Hije, apresentando o Hijotano não apenas como uma equipe de futebol, mas como um símbolo de identidade e pertencimento nacional.
+
+Hijotano, Hijotano
+Ja nasceste para brilhar 
+
+Hijotano, Hijotano 
+Criado para ganhar 
+
+Nos simples bairros de Yutania 
+Fundado pelo povão
+E nas vitórias da simplicidade 
+O hijotano como uma nação 
+
+Hijotano, Hijotano 
+Criado pra ser campeão 
+
+Hijotano, Hijotano 
+Povo de Hije tem no coração 
+
+
+Nascido em oitocentos e noventa
+Criado como Hije F C
+Mas para representar seu povo
+Tornou se Hijotano 
+O grande campeão 
+
+Hijotano, Hijotano 
+Criado pra ser campeão 
+
+Hijotano, Hijotano 
+O povo de Hije tem no coração 
+
+Desde oitocentos e noventa e sete
+Ou talvez novecentos e seis
+O Hijotano campeão da cidade
+E nacional pela primeira vez 
+
+Tu és grandes desde os primórdios 
+Hijotano do coração 
+Não representas apenas um povo
+Mas também uma grande nação 
+
+
+Hijotano, Hijotano 
+Criado pra ser campeão 
+
+Hijotano, Hijotano 
+O povo de Hije tem no coração.
+
+
 Estádio
 
 Arena Hije
