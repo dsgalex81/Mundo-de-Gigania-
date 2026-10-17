@@ -103,28 +103,28 @@ Placar agregado: Zinya City 5–4 Hije de Palnor.
 
 Placar agregado: Xitan City 3–2 Hije de Palnor.
 
-905 — Rio Grande
+905 — [Rio Grande](Clubes/aariogrande.md)
 
 - Jogo de ida: Hito 2–1 Rio Grande
 - Jogo de volta: Rio Grande 2–0 Hito
 
 Placar agregado: Rio Grande 3–2 Hito.
 
-906 — Hijotano
+906 — [Hijotano](Clubes/fchijotano.md)
 
 - Jogo de ida: Hito 1–2 Hijotano
 - Jogo de volta: Hijotano 1–0 Hito
 
 Placar agregado: Hijotano 3–1 Hito.
 
-907 — Hijotano
+907 — [Hijotano](Clubes/fchijotano.md)
 
 - Jogo de ida: Hito 2–0 Hijotano
 - Jogo de volta: Hijotano 3–0 Hito
 
 Placar agregado: Hijotano 3–2 Hito.
 
-908 — Hijotano
+908 — [Hijotano](Clubes/fchijotano.md)
 
 - Jogo de ida: Hijotano 1–0 Hito
 - Jogo de volta: Hito 0–0 Hijotano
