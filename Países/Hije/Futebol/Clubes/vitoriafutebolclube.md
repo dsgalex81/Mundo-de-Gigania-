@@ -105,7 +105,7 @@ Títulos pelo Vitória:
 - ⚽ Primeira Liga Hije: 937
 - 🏆 Taça da Dinastia: 938
 
-Scott Thurston
+[Scott Thurston](../Jogadores/scott.thurston.md)
 
 Posição: Zagueiro
 Nascimento: 907
