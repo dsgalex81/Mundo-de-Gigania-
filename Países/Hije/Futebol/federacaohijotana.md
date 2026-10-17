@@ -16,7 +16,7 @@ A Federação Hijotana de Futebol é responsável por:
 
 - Competições nacionais: organizar as divisões nacionais, os campeonatos regionais, os estaduais e a Copa Hije.
 - Vagas internacionais: distribuir entre os clubes hijotanos as vagas internacionais concedidas pela GFA (Gigania Football Association).
-- Seleção nacional: administrar a Seleção Nacional Hijotana, incluindo as convocações e a organização de suas atividades.
+- [Seleção naciona](hijefc.md)l: administrar a Seleção Nacional Hijotana, incluindo as convocações e a organização de suas atividades.
 - Patrocínios: administrar os patrocínios relacionados à federação e à seleção nacional.
 
 Sistema de ligas de Hije
