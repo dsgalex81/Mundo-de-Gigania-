@@ -4,7 +4,7 @@ Esta página reúne jogadores de futebol nascidos em Hije, organizados de acordo
 
 Atacantes
 
-- "Nome do jogador" (caminho-do-arquivo.md) — Breve descrição de sua carreira e de sua importância no futebol hijotano.
+- [Rafael André Rocha](rafael-andre.md) — O Príncipe de Zinya — Atacante hijotano e ídolo do Zinya City, conquistou quatro títulos pela seleção de Hije, incluindo as Copas do Mundo OIFM de 946 e 950, e encerrou a carreira com 165 gols e 208 assistências.
 
 Pontas
 
