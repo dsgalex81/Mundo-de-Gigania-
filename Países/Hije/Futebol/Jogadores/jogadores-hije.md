@@ -22,7 +22,7 @@ Volantes
 
 Zagueiros
 
-- Nenhum jogador adicionado ainda.
+- [Scott Thurston](scott-thurston.md) — Zagueiro hijotano que conquistou títulos por Vitória e Atlético Liberdade e disputou duas finais da Copa do Mundo OIFM pela seleção de Hije..
 
 Laterais
 
