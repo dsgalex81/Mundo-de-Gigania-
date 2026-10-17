@@ -4,10 +4,6 @@
   <img src="vitoriafcescudo.png" alt="Vitória Futebol Clube" width="200">
 </p>
 
-
-![Escudo do Vitória](vitoriafcescudo.png)
-Vitória Futebol Clube
-
 Informações gerais
 
 - Nome completo: Vitória Futebol Clube
