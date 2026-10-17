@@ -85,8 +85,8 @@ Títulos
 Principais títulos
 
 - Taça da Dinastia: 918
-- Primeira Liga Hije: 905, 917, 921 e 938
-- Copa Hije: 930, 942 e 961
+- [Primeira Liga Hije](../primeiraligahije.md): 905, 917, 921 e 938
+- [Copa Hije](../copahije.md): 930, 942 e 961
 - Copa Hijotania: 957
 
 Título pré-histórico
@@ -135,7 +135,7 @@ A relação entre o clube e sua torcida é uma das características mais importa
 
 Ídolos
 
-Lindomar Freire
+[Lindomar Freire](../Jogadores/lindomar-freire.md)
 
 - Posição: Zagueiro
 - Nascimento: 888
@@ -163,7 +163,7 @@ Sua permanência no clube durante os períodos mais difíceis consolidou sua ima
 
 Lindomar aposentou-se em 926, encerrando sua carreira como uma das maiores lendas da história do Rio Grande.
 
-George Oros
+[George Oros](../Jogadores/george-oros.md)
 
 - Posições: Volante e meio-campista
 - Nascimento: 890
@@ -202,7 +202,7 @@ Rivalidades
 
 Rivalidades de Ettynia
 
-Desportiva Ettynia Hije — Clássico da Eternidade
+[Desportiva Ettynia Hije](desportivaettyniahije.md) — Clássico da Eternidade
 
 A maior rivalidade do Rio Grande é contra a Desportiva Ettynia Hije. O confronto é conhecido como Clássico da Eternidade.
 
@@ -210,7 +210,7 @@ O nome homenageia a história de dois torcedores, um de cada clube, que eram gra
 
 Em memória dos dois amigos, o confronto recebeu o nome de Clássico da Eternidade, representando a permanência da amizade para além da rivalidade esportiva.
 
-Vitória — Clássico Pioneiro
+[Vitória](vitoriafutebolclube.md) — Clássico Pioneiro
 
 O confronto entre Rio Grande e Vitória é conhecido como Clássico Pioneiro.
 
@@ -228,7 +228,7 @@ A imprensa esportiva brincou que o derrotado em um confronto entre as equipes se
 
 O Rio Grande rejeita a denominação, enquanto o Xitan City, tradicionalmente considerado o oitavo maior clube de Hije, não gosta particularmente do nome, mas o aceita.
 
-Hijotano — Clássico de Multidões
+[Hijotano](fchijotano.md) — Clássico de Multidões
 
 O confronto entre Rio Grande e Hijotano é conhecido como Clássico de Multidões.
 
