@@ -148,7 +148,7 @@ Títulos e prêmios
 - Melhor zagueiro da Dinastia: 948
 - Melhor defensor de Gigania: 948
 
-Joe Khan
+[Joe Khan](../Jogadores/joe-khan.md)
 
 Filho de Arvind Khan, Joe Khan foi um jogador hijotano que atuou como zagueiro e formou dupla defensiva com Goiz Gorostiaga.
 
