@@ -15,7 +15,7 @@ O sistema de ligas de Hije é composto por quatro divisões nacionais.
 
 Clubes
 
-Relação dos clubes de Hije, incluindo suas histórias, títulos e rivalidades.
+[Desportiva Ettynia Hije](Futebol/Clubes/desportivaettyniahije.md): O maior clube do país, com 16 títulos da Liga Hije, 9 da Copa Hije e 7 Taças da Dinastia.
 
 Competições nacionais
 
