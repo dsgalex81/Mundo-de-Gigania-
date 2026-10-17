@@ -6,7 +6,7 @@ O ranking abaixo apresenta os dez principais clássicos de Hije. A classificaç�
 
 1º–3º — Clássico da Dinastia
 
-Clubes: Desportiva Ettynia Hije x Yutania City
+Clubes: [Desportiva Ettynia Hije](Clubes/desportivaettyniahije.md) x Yutania City
 
 O Clássico da Dinastia recebeu esse nome durante um confronto entre Desportiva e Yutania City, em 917.
 
@@ -18,7 +18,7 @@ A rivalidade ganhou ainda mais importância com o passar das décadas. Atualment
 
 1º–3º — Encontro de Colossos
 
-Clubes: Desportiva Ettynia Hije x Hijotano
+Clubes: [Desportiva Ettynia Hije](Clubes/desportivaettyniahije.md) x Hijotano
 
 O Encontro de Colossos é o confronto entre dois dos maiores clubes da história de Hije. O nome surgiu na imprensa esportiva hijotana, durante uma partida importante entre as equipes.
 
@@ -36,7 +36,7 @@ A rivalidade reúne duas das principais forças futebolísticas da cidade e se d
 
 4º — Derby de Ettynia
 
-Clubes: Desportiva Ettynia Hije x Vitória
+Clubes: [Desportiva Ettynia Hije](Clubes/desportivaettyniahije.md) x [Vitória](Clubes/vitoriafutebolclube.md)
 
 O Derby de Ettynia é o confronto entre dois clubes da cidade de Ettynia: a Desportiva e o Vitória.
 
@@ -44,7 +44,7 @@ A rivalidade coloca frente a frente duas equipes tradicionais da maior cidade de
 
 5º — Clássico da Eternidade
 
-Clubes: Desportiva Ettynia Hije x Rio Grande
+Clubes: [Desportiva Ettynia Hije](Clubes/desportivaettyniahije.md) x Rio Grande
 
 O Clássico da Eternidade possui uma origem marcada por uma história trágica de amizade.
 
@@ -56,7 +56,7 @@ Em homenagem aos amigos, o confronto entre Rio Grande e Desportiva passou a ser 
 
 6º — Confronto de Classes
 
-Clubes: Vitória x Hijotano
+Clubes: [Vitória](Clubes/vitoriafutebolclube.md) x Hijotano
 
 O Confronto de Classes tem origem nas diferentes raízes sociais dos dois clubes.
 
@@ -66,7 +66,7 @@ O confronto representa, portanto, não apenas uma disputa esportiva, mas também
 
 7º — Clássico Lado B
 
-Clubes: Vitória x Yutania City
+Clubes: [Vitória](Clubes/vitoriafutebolclube.md) x Yutania City
 
 O Clássico Lado B é uma rivalidade entre Vitória e Yutania City que recebeu esse nome por causa da posição histórica dos clubes dentro de suas respectivas cidades.
 
@@ -78,7 +78,7 @@ O nome, entretanto, não agrada aos clubes envolvidos. Vitória e Yutania City n
 
 8º — Clássico das Duas Forças
 
-Clubes: Desportiva Ettynia Hije x Zinya City
+Clubes: [Desportiva Ettynia Hije](Clubes/desportivaettyniahije.md) x Zinya City
 
 O Clássico das Duas Forças recebeu esse nome porque Desportiva e Zinya City foram os primeiros clubes a conquistar duas vezes o campeonato nacional de Hije.
 
@@ -98,7 +98,7 @@ Apesar da popularização do novo nome, Clássico de Y a Z continua sendo a deno
 
 10º — Clássico da Diversidade
 
-Clubes: Desportiva Ettynia Hije x Atlético Liberdade
+Clubes: [Desportiva Ettynia Hije](Clubes/desportivaettyniahije.md) x Atlético Liberdade
 
 O Clássico da Diversidade recebeu esse nome pela variedade de conquistas dos dois clubes.
 
@@ -120,7 +120,7 @@ Todos os confrontos entre os sete grandes clubes de Hije que não aparecem no ra
 
 Clássico Elitista
 
-Clubes: Vitória x Zinya City
+Clubes: [Vitória](Clubes/vitoriafutebolclube.md) x Zinya City
 
 O Clássico Elitista é assim chamado devido às origens historicamente elitistas dos dois clubes.
 
