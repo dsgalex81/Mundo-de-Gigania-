@@ -1,7 +1,7 @@
 Associação Atlética Rio Grande
 
 <p align="center">
-  <img src="Rio Grande.png" alt="Escudo da Associação Atlética Rio Grande" width="240">
+  <img src="riogrande.png" alt="Escudo da Associação Atlética Rio Grande" width="240">
 </p>
 
 A Associação Atlética Rio Grande é um dos clubes mais tradicionais de Hije, sediado no bairro de Rio Grande, na cidade de Ettynia. Conhecido por sua história centenária, suas conquistas nacionais e a fidelidade de sua torcida, o clube é uma das principais instituições do futebol hijotano.
