@@ -41,3 +41,5 @@ Laterais
 Goleiros
 
 - [Fabiano Feitosa](fabiano-feitosa.md) — Goleiro hijotano revelado pelo Vitória, conquistou títulos nacionais pelo clube e pelo Zinya City, além de integrar a seleção de Hije campeã de duas Copas do Mundo OIFM.
+
+- [Nsimba Bernardo](nsimba-bernardo.md) — Goleiro hijotano que conquistou a Primeira Liga Hije pelo Atlético Liberdade e pela Desportiva Ettynia Hije, além de duas Taças da Dinastia com a Desportiva. Foi vice-campeão da Copa de Seleções Gigania em 929.
