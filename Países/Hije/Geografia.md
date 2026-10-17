@@ -104,7 +104,8 @@ Esta seção apresenta as cidades mais populosas de Hije, com suas respectivas u
 
 Ranking populacional em 970
 
-Posição| Cidade| Estado| População         
+Posição| Cidade| Estado| População    
+|---|---:|---:|---:|
 1| Ettynia| Hamanoka| 6.000.000            
 2| Zinya| Zinya| 4.000.000                 
 3| Yutania| Yutania (capital federal)| 3.500.000                
