@@ -501,7 +501,7 @@ Suas cores são azul, branco e amarelo, correspondentes às cores da cidade de E
 
 Rivalidades nacionais
 
-[Hijotano](fchijotano.mf) — Encontro de Colossos
+[Hijotano](fchijotano.md) — Encontro de Colossos
 
 O Hijotano é um clube da capital, Yutania, e um dos principais rivais nacionais da Desportiva.
 
