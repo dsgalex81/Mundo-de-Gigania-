@@ -40,4 +40,4 @@ Laterais
 
 Goleiros
 
-- Nenhum jogador adicionado ainda.
+- [Fabiano Feitosa](fabiano-feitosa.md) — Goleiro hijotano revelado pelo Vitória, conquistou títulos nacionais pelo clube e pelo Zinya City, além de integrar a seleção de Hije campeã de duas Copas do Mundo OIFM.
