@@ -6,7 +6,7 @@ Nascimento: 870
 Local de nascimento: Vila Norte, Yutania, Hije                               
 Aposentadoria: 903                         
 Clube: Vila Norte                          
-Seleção: Hije
+Seleção: [Hije](../hijefc.md)
 
 Armando Bah foi um ponta esquerda hijotano e um dos maiores jogadores da era mais antiga do futebol de Hije. Vestindo a camisa 10 do Vila Norte, construiu toda a sua trajetória profissional no clube que aprendeu a amar ainda na infância.
 
