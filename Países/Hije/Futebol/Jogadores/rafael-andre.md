@@ -12,6 +12,8 @@ Informações gerais
 - Estreia profissional: 941
 - Aposentadoria: 959
 - Títulos pela seleção: 2 Copas do Mundo OIFM e 2 Copas de Seleções Gigania
+- Número mais utilizado: 9
+- Número pela seleção de Hije: 9
 
 Rafael André Rocha, conhecido como O Príncipe de Zinya, foi um atacante hijotano que marcou época pelo Zinya City e pela seleção de Hije. Revelado após crescer em um bairro pobre de Zinya, construiu uma carreira de destaque, conquistando títulos nacionais e internacionais e tornando-se um dos jogadores mais importantes de sua geração.
 
@@ -320,3 +322,5 @@ Sua transferência para o Yutania City não interrompeu a sequência de conquist
 Pela seleção hijotana, alcançou o auge ao conquistar duas Copas do Mundo OIFM consecutivas, em 946 e 950, além das Copas de Seleções Gigania de 945 e 949. Mesmo sem vencer a edição de 957, sua última grande campanha continental foi uma demonstração de sua longevidade e importância para Hije.
 
 O apelido O Príncipe de Zinya representa sua ligação com a cidade onde nasceu, cresceu e se tornou um dos maiores jogadores de sua geração. Com 373 participações em gols e doze títulos registrados, Rafael deixou uma marca duradoura tanto no futebol de clubes quanto na história da seleção hijotana.
+
+Rafael André também ficou associado à camisa 9, número que mais utilizou ao longo da carreira e que vestiu pela seleção de Hije. A combinação entre sua posição de atacante, sua produção ofensiva e a camisa 9 reforçou sua identidade como um dos grandes goleadores da história do futebol hijotano.
