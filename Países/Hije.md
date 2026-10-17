@@ -10,7 +10,7 @@ Informações gerais
 
 Esta página apresenta uma visão geral de Hije, com links para páginas específicas sobre o país.
 
-- Continente: [Gigania](../Geografia/gigania.md)
+- Continente: [Gigania](../Geografia/Gigania.md)
 - População: 49,4 milhões de habitantes
 
 Geografia
