@@ -6,7 +6,7 @@ Informações gerais
 - Nascimento: 922                          
 - Naturalidade: Ettynia, Hije              
 - Posição: Zagueiro                        
-- Clube principal: Desportiva Ettynia Hije 
+- Clube principal: [Desportiva Ettynia Hije](../Clubes/desportivaettyniahije.md)
 - Seleção: Hije                            
 - Período como jogador profissional: 940–955                       
 - Pai: Arvind Khan
