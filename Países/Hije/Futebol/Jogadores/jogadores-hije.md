@@ -26,6 +26,8 @@ Volantes
 
 - [Tonyfiz Fo Arun](tonyfizfoarum.md) — Volante conhecido por sua capacidade defensiva, que conquistou títulos em Hije e Palaty durante uma longa carreira.
 
+- [Leonel Gomes](leonel-gomes.md) — Volante hijotano que iniciou a carreira no Hito e conquistou duas Ligas Hije e uma Taça da Dinastia pelo Atlético Liberdade, encerrando a trajetória profissional em 936.
+
 Zagueiros
 
 - [Scott Thurston](scott-thurston.md) — Zagueiro hijotano que conquistou títulos por Vitória e Atlético Liberdade e disputou duas finais da Copa do Mundo OIFM pela seleção de Hije..
