@@ -5,7 +5,7 @@ Ano de nascimento: 890
 Local de nascimento: Yutania, Hije         
 Estreia profissional: 908                  
 Aposentadoria: 921                         
-Seleção: Hije
+Seleção: [Hije](../hijefc.md)
 
 George Oros foi um futebolista hijotano que atuou como volante e meio-campista. Considerado um dos grandes jogadores de sua geração, conquistou títulos nacionais e internacionais por clubes, além de prêmios individuais de destaque. Em 918, alcançou o reconhecimento máximo ao ser eleito o melhor jogador de Gigania.
 
