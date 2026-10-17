@@ -18,6 +18,8 @@ Meio-campistas
 
 - [Ivan Santos](ivan-santos.md) — Meio-campista hijotano e segundo maior assistente da história de Gigania, disputou quatro finais consecutivas da Copa do Mundo OIFM e conquistou os títulos mundiais de 946 e 950.
 
+- [Mamadou dos Santos](mamadou-dos-santos.md) — Conhecido como O Operário Perfeito, foi um meio-campista hijotano marcado pela consistência, conquistou seis Ligas Hije e integrou a seleção campeã mundial de 950.
+
 Volantes
 
 - [Tonyfiz Fo Arun](tonyfizfoarum.md) — Volante conhecido por sua capacidade defensiva, que conquistou títulos em Hije e Palaty durante uma longa carreira.
