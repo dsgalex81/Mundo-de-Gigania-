@@ -30,7 +30,7 @@ Futebol
 Informações sobre o futebol nacional, incluindo clubes, ligas e competições.
 
 - [Futebol de Hije](Hije/futebol.md)
-- [Federação Hijotana](Hije/federacaohijotana.md)
+- [Federação Hijotana](Hije/Futebol/federacaohijotana.md)
 
 Outros assuntos
 
