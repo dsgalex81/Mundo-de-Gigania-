@@ -12,6 +12,7 @@ Esta página apresenta uma visão geral de Hije, com links para páginas especí
 
 - Continente: [Gigania](../Geografia/Gigania.md)
 - População: 49,4 milhões de habitantes
+- Gentílico: hijotano (masculino), hijotana (feminino)
 
 Geografia
 
