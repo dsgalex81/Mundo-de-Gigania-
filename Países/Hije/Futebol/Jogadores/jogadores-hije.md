@@ -16,6 +16,8 @@ Meio-campistas
 
 - [George Oros](george-oros.md) — Meio-campista central e volante que conquistou títulos por Yutania City e Rio Grande, além de ser o único jogador nascido em Hije a vencer o prêmio de Melhor Jogador de Gigania.
 
+- [Ivan Santos](ivan-santos.md) — Meio-campista hijotano e segundo maior assistente da história de Gigania, disputou quatro finais consecutivas da Copa do Mundo OIFM e conquistou os títulos mundiais de 946 e 950.
+
 Volantes
 
 - [Tonyfiz Fo Arun](tonyfizfoarum.md) — Volante conhecido por sua capacidade defensiva, que conquistou títulos em Hije e Palaty durante uma longa carreira.
