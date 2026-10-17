@@ -7,7 +7,7 @@ Informações gerais
 - Local de nascimento: Ettynia, Hije
 - Ano de nascimento: 914
 - Posição: Goleiro
-- Clubes profissionais: Vitória e Zinya City
+- Clubes profissionais: [Vitória](../Clubes/vitoriafutebolclube.md) e Zinya City
 - Ano de estreia profissional: 933
 - Ano de aposentadoria: 950
 - Número de títulos: 10
