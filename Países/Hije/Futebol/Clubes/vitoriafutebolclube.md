@@ -1,7 +1,7 @@
 <h1 align="center">Vitória</h1>
 
 <p align="center">
-  <img src="escudofhf.png" alt="vitoriafcescudo.png" width="200">
+  <img src="vitoriafcescudo.png" alt="Vitória Futebol Clube" width="200">
 </p>
 
 
