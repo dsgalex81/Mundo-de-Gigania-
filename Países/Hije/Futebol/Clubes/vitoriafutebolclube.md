@@ -56,7 +56,7 @@ Títulos oficiais
 
 - 🏆 Taça da Dinastia: 938
 - ⚽ [Primeira Liga Hije](../primeiraligahije.md): 900, 910, 928, 929, 937, 949, 965, 979
-- 🏟️ Copa Hije: 946, 951
+- 🏟️ [Copa Hije](../copahije.md): 946, 951
 - 🌍 Copa Hijotania: 968
 
 Títulos pré-históricos
