@@ -24,6 +24,8 @@ Zagueiros
 
 - [Scott Thurston](scott-thurston.md) — Zagueiro hijotano que conquistou títulos por Vitória e Atlético Liberdade e disputou duas finais da Copa do Mundo OIFM pela seleção de Hije..
 
+- [Lindomar Freire](lindomar-freire.md) — Um dos primeiros ídolos de Hije, foi zagueiro histórico do Rio Grande e eternizou a camisa 55, conquistando três Ligas Hije e uma Taça da Dinastia.
+
 Laterais
 
 - Nenhum jogador adicionado ainda.
