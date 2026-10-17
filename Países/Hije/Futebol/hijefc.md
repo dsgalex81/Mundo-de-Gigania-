@@ -2,7 +2,7 @@ Seleção Nacional de Hije
 
 Informações gerais
 
-A Seleção Hijotana de Futebol, também conhecida como Hije FC, representa Hije nas competições internacionais de futebol. A equipe é administrada pela Federação Hijotana de Futebol (FHF), responsável por suas convocações, organização e patrocínios.
+A Seleção Hijotana de Futebol, também conhecida como Hije FC, representa Hije nas competições internacionais de futebol. A equipe é administrada pela [Federação Hijotana de Futebol](federacaohijotana.md) (FHF), responsável por suas convocações, organização e patrocínios.
 
 Uniformes
 
