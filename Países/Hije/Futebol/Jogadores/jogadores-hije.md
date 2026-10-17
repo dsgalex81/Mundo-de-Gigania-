@@ -20,6 +20,8 @@ Meio-campistas
 
 - [Mamadou dos Santos](mamadou-dos-santos.md) — Conhecido como O Operário Perfeito, foi um meio-campista hijotano marcado pela consistência, conquistou seis Ligas Hije e integrou a seleção campeã mundial de 950.
 
+- [Jaime Coutinho — O Rei de Palnor](jaime-coutinho.md) — Meio-campista hijotano que transformou a rejeição do Hije de Palnor em combustível para se tornar ídolo do Palnor Club, conquistar três Copas Hije consecutivas e eternizar seu nome na Arena Jaime Coutinho.
+
 Volantes
 
 - [Tonyfiz Fo Arun](tonyfizfoarum.md) — Volante conhecido por sua capacidade defensiva, que conquistou títulos em Hije e Palaty durante uma longa carreira.
