@@ -298,4 +298,4 @@ Ivan Santos foi um meio-campista de grande capacidade criativa, conhecido por tr
 
 Seu período no Zinya City foi especialmente marcante, tanto pelos títulos nacionais quanto pelo volume de assistências. Pela seleção, entrou para a história ao disputar quatro finais consecutivas da Copa do Mundo OIFM e conquistar os títulos de 946 e 950.
 
-Com 386 assistências oficiais contabilizadas, Ivan encerrou sua carreira em 954 como o segundo maior assistente da história do futebol de sua lore, deixando um legado que combina longevidade, criatividade e conquistas internacionais.
+Com 386 assistências oficiais contabilizadas, Ivan encerrou sua carreira em 954 como o segundo maior assistente da história do futebol de Gigania, deixando um legado que combina longevidade, criatividade e conquistas internacionais.
