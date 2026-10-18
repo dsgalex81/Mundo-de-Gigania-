@@ -144,18 +144,18 @@ Década de 900
 - 913: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 49 pontos
 - 914: Zinya City — 44 pontos
 - 915: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 44 pontos
-- 916: Hijotano — 44 pontos
-- 917: Rio Grande — 54 pontos
+- 916: [Hijotano](Clubes/fchijotano.md) — 44 pontos
+- 917: [Rio Grande](Clubes/aario-grande.md) — 54 pontos
 - 918: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 47 pontos
 - 919: Atlético Liberdade — 47 pontos
 
 Década de 920
 
-- 920: Hijotano — 45 pontos
-- 921: Rio Grande — 51 pontos
+- 920: [Hijotano](Clubes/fchijotano.md) — 45 pontos
+- 921: [Rio Grande](Clubes/aario-grande.md) — 51 pontos
 - 922: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 48 pontos
 - 923: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 53 pontos
-- 924: Hijotano — 61 pontos
+- 924: [Hijotano](Clubes/fchijotano.md) — 61 pontos
 - 925: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 54 pontos
 - 926: Hije de Palnor — 58 pontos
 - 927: Yutania City — 56 pontos
@@ -169,11 +169,11 @@ Década de 930
 - 932: [Vitória](Clubes/vitoriafutebolclube.md) — 56 pontos
 - 933: Atlético Liberdade — 52 pontos
 - 934: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 67 pontos
-- 935: Hijotano — 52 pontos
+- 935: [Hijotano](Clubes/fchijotano.md) — 52 pontos
 - 936: Rio Newen — 53 pontos
 - 937: [Vitória](Clubes/vitoriafutebolclube.md) — 59 pontos
-- 938: Rio Grande — 55 pontos
-- 939: Hijotano — 66 pontos
+- 938: [Rio Grande](Clubes/aario-grande.md) — 55 pontos
+- 939: [Hijotano](Clubes/fchijotano.md) — 66 pontos
 
 Década de 940
 
@@ -185,16 +185,16 @@ Década de 940
 - 945: Zinya City — 76 pontos
 - 946: Zinya City — 74 pontos
 - 947: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 77 pontos
-- 948: Hijotano — 76 pontos
+- 948: [Hijotano](Clubes/fchijotano.md) — 76 pontos
 - 949: [Vitória](Clubes/vitoriafutebolclube.md) — 79 pontos
 
 Década de 950
 
-- 950: Hijotano — 83 pontos
+- 950: [Hijotano](Clubes/fchijotano.md) — 83 pontos
 - 951: Zinya City — 76 pontos
 - 952: Yutania City — 78 pontos
 - 953: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 86 pontos
-- 954: Hijotano — 90 pontos
+- 954: [Hijotano](Clubes/fchijotano.md) — 90 pontos
 - 955: Yutania City — 84 pontos
 - 956: Yutania City — 79 pontos
 - 957: Yutania City — 76 pontos
@@ -210,7 +210,7 @@ Década de 960
 - 964: Zinya City — 86 pontos
 - 965: [Vitória](Clubes/vitoriafutebolclube.md) — 85 pontos
 - 966: Palnor Club — 86 pontos
-- 967: Hijotano — 76 pontos
+- 967: [Hijotano](Clubes/fchijotano.md) — 76 pontos
 - 968: Hito — 74 pontos
 - 969: Hito — 67 pontos
 
@@ -220,7 +220,7 @@ Década de 970
 - 971: Hije de Palnor — 71 pontos
 - 972: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 77 pontos
 - 973: Yutania City — 77 pontos
-- 974: Hijotano — 72 pontos
+- 974: [Hijotano](Clubes/fchijotano.md) — 72 pontos
 - 975: Hito — 79 pontos
 - 976: [Desportiva Ettynia](Clubes/desportivaettyniahije.md) — 76 pontos
 - 977: Hije de Palnor — 72 pontos
@@ -244,20 +244,20 @@ Rebaixados da Primeira Liga Hije
 
 Temporadas de 902 a 910
 
-- 902: Rio Grande e Hijotano
+- 902: [Rio Grande](Clubes/aario-grande.md) e [Hijotano](Clubes/fchijotano.md)
 - 903: Hito e Falcão Norte
 - 904: [Vitória](Clubes/vitoriafutebolclube.md) e Univ Hije
 - 905: Palnor Club e Vila Norte
 - 906: Hije de Palnor e Atl Zinyo
 - 907: [Vitória](Clubes/vitoriafutebolclube.md) e Zinya City
-- 908: Rio Grande e Univ Hije
+- 908: [Rio Grande](aario-grande.md) e Univ Hije
 - 909: Hije de Palnor e Esporte Peixoto
 - 910: Palnor Club e Vila Norte
 
 Temporadas de 911 a 920
 
 - 911: Hito e Zinya City
-- 912: Gen Diamond Yellow e Rio Grande
+- 912: Gen Diamond Yellow e [Rio Grande](aario-grande.md)
 - 913: Palnor Club e Univ Hije
 - 914: Vista Bella e Vila Norte
 - 915: Pedraguaínos e Atl Zinyo
