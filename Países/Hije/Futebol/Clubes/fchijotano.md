@@ -1,6 +1,6 @@
 Futebol Clube Hijotano
 
-<h1 align="center">Hijotano Futebol Clube</h1>
+<h1 align="center">Futebol Clube Hijotano</h1>
 
 <p align="center">
   <img src="fchijotano.png" alt="Escudo do Futebol Clube Hijotano" width="200">
