@@ -1,5 +1,11 @@
 Futebol Clube Hijotano
 
+<h1 align="center">Hijotano Futebol Clube</h1>
+
+<p align="center">
+  <img src="fchijotano.png" alt="Escudo do Futebol Clube Hijotano" width="200">
+</p>
+
 O Futebol Clube Hijotano, conhecido simplesmente como Hijotano, é um clube de futebol da cidade de Yutania, capital de Hije. Fundado em 890 sob o nome de Hije FC, o clube é um dos sete grandes do futebol hijotano e possui uma das trajetórias mais tradicionais do país.
 
 Inicialmente, a equipe representava o próprio país de Hije por meio de seu nome e identidade visual. Entretanto, ao longo de sua história, surgiu a proposta de adotar uma identidade que representasse não apenas a nação, mas também o povo hijotano. O projeto de reformulação, que incluía um escudo mais moderno, foi concluído até 938. A partir de 939, o clube passou a aparecer nas tabelas dos campeonatos como Futebol Clube Hijotano.
