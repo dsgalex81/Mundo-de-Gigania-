@@ -355,13 +355,13 @@ Recordes e estatísticas
 Maiores campeões da Primeira Liga Hije
 
 - 1º — [Desportiva Ettynia](Clubes/desportivaettyniahije.md): 16 títulos
-- 2º — Hijotano: 13 títulos
+- 2º — [Hijotano](Clubes/fchijotano.md): 13 títulos
 - 3º — Zinya City: 10 títulos
 - 4º — Yutania City: 9 títulos
 - 4º — [Vitória](Clubes/vitoriafutebolclube.md): 9 títulos
 - 6º — Xitan City: 5 títulos
 - 6º — Atlético Liberdade: 5 títulos
-- 8º — Rio Grande: 4 títulos
+- 8º — [Rio Grande](Clubes/aario-grande.md): 4 títulos
 - 8º — Palnor Club: 4 títulos
 - 10º — Hije de Palnor: 3 títulos
 - 10º — Hito: 3 títulos
@@ -375,7 +375,7 @@ Até a temporada de 981, nenhum clube havia conquistado a Primeira Liga Hije por
 
 Quatro clubes conseguiram conquistar o título em três temporadas consecutivas:
 
-- Hijotano: 906, 907 e 908.
+- [Hijotano](Clubes/fchijotano.md): 906, 907 e 908.
 - Zinya City: 944, 945 e 946.
 - Yutania City: 955, 956 e 957.
 - Palnor Club: 961, 962 e 963.
