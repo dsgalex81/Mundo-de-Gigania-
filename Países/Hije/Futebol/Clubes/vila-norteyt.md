@@ -75,11 +75,13 @@ Títulos
 Títulos oficiais da era moderna
 
 Competição| Títulos| Ano
+|---|---:|---:|
 Copa Hije| 1| 937
 
 Títulos históricos regionais
 
 Competição| Títulos| Anos
+|---|---:|---:|
 Liga Yutania| 6| 890, 892, 894, 895, 899 e 901
 
 A Liga Yutania representa o período de maior sucesso do Vila Norte. Seus seis títulos fizeram do clube o maior campeão da competição e permanecem como parte central de sua identidade histórica.
@@ -127,6 +129,7 @@ Temporadas de Armando Bah
 Os números abaixo separam os registros da Liga Yutania dos totais informados quando os torneios da época considerados amistosos também são contabilizados.
 
 Ano| Liga Yutania| Gols e assistências na liga| Números informados incluindo amistosos
+|---|---:|---:|---:|
 887–889| —| —| 20 gols e 12 assistências no período
 890| Campeão| 2 gols| 7 gols e 8 assistências
 891| Vice-campeão| 1 gol| Nenhum gol ou assistência nos amistosos
@@ -148,6 +151,7 @@ Em 903, Armando Bah encerrou sua carreira no futebol, deixando como legado uma t
 Títulos por Armando Bah
 
 Competição| Anos
+|---|---:|
 Liga Yutania| 890, 892, 894, 895, 899 e 901
 
 Armando Bah é lembrado como um dos principais jogadores da era inicial do futebol de Hije. Sua trajetória está diretamente ligada ao período em que o Vila Norte dominava o cenário regional e construiu a base de sua tradição esportiva.
@@ -157,7 +161,7 @@ Rivalidades
 O Vila Norte possui rivalidades com outros clubes de Yutania, especialmente:
 
 - Yutania City
-- Hijotano
+- [Hijotano](fchijotano.md)
 - Sallya fo Arun
 
 Esses confrontos fazem parte do cenário futebolístico da capital hijotana e das relações históricas entre seus clubes.
