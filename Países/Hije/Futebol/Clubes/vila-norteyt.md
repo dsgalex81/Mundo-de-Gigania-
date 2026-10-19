@@ -1,5 +1,11 @@
 Club Vila Norte de Yutania
 
+<h1 align="center">Escudo do Vila Norte</h1>
+
+<p align="center">
+  <img src="vilanorte.png" alt="Escudo do Vila Norte" width="240">
+</p>
+
 O Club Vila Norte de Yutania, conhecido simplesmente como Vila Norte, é um clube de futebol hijotano sediado em Yutania, capital de Hije. Fundado em 862 por integrantes da elite do bairro nobre de Vila Norte, o clube possui uma longa história no futebol do país.
 
 Apesar de atualmente estar longe de ser considerado um dos grandes clubes de Hije, o Vila Norte já ocupou uma posição de destaque no futebol nacional. Seu auge aconteceu durante a era das competições regionais, quando dominou a antiga Liga Yutania e conquistou seis títulos.
